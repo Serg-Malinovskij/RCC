@@ -408,9 +408,7 @@ margin:0 20px;
 .swiper {
 }
 .swiper-wrapper {}
-.swiper-slide{
-transition: all 0.3s ease 0s;
-}
+.swiper-slide{}
 
 .swiper-slide .burger-popup__slide-image img {
   filter:grayscale(100%);
